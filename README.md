@@ -9,6 +9,5 @@ I'm the Head of Teaching at Developers Institute
 - 📫 How to reach me: 
     - <a href="https://mastodon.nz/@andrewford" rel="me">Mastodon</a> 
     - <a href="mailto:me@andrewford.co.nz">Email</a>
-- 😄 Pronouns: He/Him
 
 
